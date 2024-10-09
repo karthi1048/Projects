@@ -1,2 +1,2 @@
 # Projects
-This repository contains the project works that i tried onto
+This repo contains list of project's name available in my Github profile
