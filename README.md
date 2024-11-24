@@ -11,6 +11,7 @@ This repo contains list of project's available in my Github profile
 - [Path Following drone](https://github.com/karthi1048/Path-Following-Drone.git)
 - [Custom Loader Animation](https://github.com/karthi1048/Custom-loader-animation.git)
 - [RPS Project](https://github.com/karthi1048/RPS-Project.git)
+- [Single Page Portfolio template](https://github.com/karthi1048/Single-Page-Portfolio-template.git)
 <p>Clones</p>
 <ul>
   <li></li>
