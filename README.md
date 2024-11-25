@@ -14,6 +14,6 @@ This repo contains list of project's available in my Github profile
 - [Single Page Portfolio template](https://github.com/karthi1048/Single-Page-Portfolio-template.git)
 <p>Clones</p>
 <ul>
-  <li></li>
+  <li><a href="https://github.com/karthi1048/Amazon-Landing-Page-Clone.git">Amazon Landing Page</a></li>
   <li></li>
 </ul>
