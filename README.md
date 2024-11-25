@@ -15,5 +15,6 @@ This repo contains list of project's available in my Github profile
 <p>Clones</p>
 <ul>
   <li><a href="https://github.com/karthi1048/Amazon-Landing-Page-Clone.git">Amazon Landing Page</a></li>
-  <li></li>
+  <li><a href="https://github.com/karthi1048/Instagram-Landing-Page-Clone.git">Instagram Landing Page</a></li>
+  <li><a href=" "></a></li>
 </ul>
