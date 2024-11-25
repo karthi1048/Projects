@@ -12,6 +12,7 @@ This repo contains list of project's available in my Github profile
 - [Custom Loader Animation](https://github.com/karthi1048/Custom-loader-animation.git)
 - [RPS Project](https://github.com/karthi1048/RPS-Project.git)
 - [Single Page Portfolio template](https://github.com/karthi1048/Single-Page-Portfolio-template.git)
+- [Currency Coverter](https://github.com/karthi1048/Currency-Converter.git)
 <p>Clones</p>
 <ul>
   <li><a href="https://github.com/karthi1048/Amazon-Landing-Page-Clone.git">Amazon Landing Page</a></li>
