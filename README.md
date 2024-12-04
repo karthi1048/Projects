@@ -13,6 +13,10 @@ This repo contains list of project's available in my Github profile
 - [RPS Project](https://github.com/karthi1048/RPS-Project.git)
 - [Single Page Portfolio template](https://github.com/karthi1048/Single-Page-Portfolio-template.git)
 - [Currency Coverter](https://github.com/karthi1048/Currency-Converter.git)
+- [Blog layout using Bootstrap](https://github.com/karthi1048/Blog-layout-using-Bootstrap.git)
+- [Task manager layout using Bootstrap](https://github.com/karthi1048/Task-manager-layout-using-Bootstrap.git)
+- [Tic Tac Toe](https://github.com/karthi1048/Tic-Tac-Toe.git)
+- [Task Manager using JQuery](https://github.com/karthi1048/Task-Manager-using-JQuery.git)
 <p>Clones</p>
 <ul>
   <li><a href="https://github.com/karthi1048/Amazon-Landing-Page-Clone.git">Amazon Landing Page</a></li>
