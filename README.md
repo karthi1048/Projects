@@ -18,6 +18,7 @@ This repo contains list of project's available in my Github profile
 - [Tic Tac Toe](https://github.com/karthi1048/Tic-Tac-Toe.git)
 - [Task Manager using JQuery](https://github.com/karthi1048/Task-Manager-using-JQuery.git)
 - [Render Gallery](https://github.com/karthi1048/render-gallery.git)
+- [Diabetes Predictor](https://github.com/karthi1048/diabetes-predictor.git)
 <p>Clones</p>
 <ul>
   <li><a href="https://github.com/karthi1048/Amazon-Landing-Page-Clone.git">Amazon Landing Page</a></li>
