@@ -4,6 +4,7 @@ This repo contains list of project's available in my Github profile
 ##### Hardware + Software projects
 
 - [Ultrasonic Radar system for Object detection](https://github.com/karthi1048/Ultrasonic-Radar-system-for-Object-detection.git)
+- [Spy Rover](https://github.com/karthi1048/spy-rover.git)
 
 ##### Pure Software projects
 
