@@ -21,6 +21,7 @@ This repo contains list of project's available in my Github profile
 - [Render Gallery](https://github.com/karthi1048/render-gallery.git)
 - [Diabetes Predictor](https://github.com/karthi1048/diabetes-predictor.git)
 - [2048](https://github.com/karthi1048/2048.git)
+- [Calculator](https://github.com/karthi1048/calculator.git)
 <p>Clones</p>
 <ul>
   <li><a href="https://github.com/karthi1048/Amazon-Landing-Page-Clone.git">Amazon Landing Page</a></li>
