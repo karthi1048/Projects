@@ -22,6 +22,7 @@ This repo contains list of project's available in my Github profile
 - [Diabetes Predictor](https://github.com/karthi1048/diabetes-predictor.git)
 - [2048](https://github.com/karthi1048/2048.git)
 - [Calculator](https://github.com/karthi1048/calculator.git)
+- [Cancer Classifier using Neural Net](https://github.com/karthi1048/cancer-classifier-using-nn.git)
 <p>Clones</p>
 <ul>
   <li><a href="https://github.com/karthi1048/Amazon-Landing-Page-Clone.git">Amazon Landing Page</a></li>
