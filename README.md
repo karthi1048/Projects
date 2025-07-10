@@ -23,6 +23,7 @@ This repo contains list of project's available in my Github profile
 - [2048](https://github.com/karthi1048/2048.git)
 - [Calculator](https://github.com/karthi1048/calculator.git)
 - [Cancer Classifier using Neural Net](https://github.com/karthi1048/cancer-classifier-using-nn.git)
+- [Landing Page using Tailwind CSS](https://github.com/karthi1048/landing-page-using-tailwind.git)
 <p>Clones</p>
 <ul>
   <li><a href="https://github.com/karthi1048/Amazon-Landing-Page-Clone.git">Amazon Landing Page</a></li>
