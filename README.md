@@ -34,4 +34,4 @@ This repo contains list of project's available in my Github profile
 </ul>
 
 ##### kaggle competition
--[Titanic - Machine Learning from Disaster](https://github.com/karthi1048/titanic-ml-solution.git)
+- [Titanic - Machine Learning from Disaster](https://github.com/karthi1048/titanic-ml-solution.git)
