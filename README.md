@@ -24,10 +24,14 @@ This repo contains list of project's available in my Github profile
 - [Calculator](https://github.com/karthi1048/calculator.git)
 - [Cancer Classifier using Neural Net](https://github.com/karthi1048/cancer-classifier-using-nn.git)
 - [Mockup Page using Tailwind CSS](https://github.com/karthi1048/mockup-page-using-tailwind.git)
-<p>Clones</p>
+
+##### Clones
 <ul>
   <li><a href="https://github.com/karthi1048/Amazon-Landing-Page-Clone.git">Amazon Landing Page</a></li>
   <li><a href="https://github.com/karthi1048/Instagram-Landing-Page-Clone.git">Instagram Landing Page</a></li>
   <li><a href="https://github.com/karthi1048/Hotstar-Clone-Landing-Page.git">Disney+ Hotstar Landing Page</a></li>
   <li><a href=" "></a></li>
 </ul>
+
+##### kaggle competition
+-[Titanic - Machine Learning from Disaster](https://github.com/karthi1048/titanic-ml-solution.git)
