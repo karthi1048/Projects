@@ -35,3 +35,4 @@ This repo contains list of project's available in my Github profile
 
 ##### kaggle competition
 - [Titanic - Machine Learning from Disaster](https://github.com/karthi1048/titanic-ml-solution.git)
+- [Playground Competition - Predict the Introverts from the Extroverts](https://github.com/karthi1048/kaggle-playground-competition-1.git)
