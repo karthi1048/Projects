@@ -24,6 +24,7 @@ This repo contains list of project's available in my Github profile
 - [Calculator](https://github.com/karthi1048/calculator.git)
 - [Cancer Classifier using Neural Net](https://github.com/karthi1048/cancer-classifier-using-nn.git)
 - [Mockup Page using Tailwind CSS](https://github.com/karthi1048/mockup-page-using-tailwind.git)
+- [Dataset Visualizer](https://github.com/karthi1048/dataset-visualizer.git)
 
 ##### Clones
 <ul>
